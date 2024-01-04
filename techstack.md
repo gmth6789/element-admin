@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/element-admin is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -17,11 +18,13 @@ gmth6789/element-admin is built on the following main stack:
 - [Dropzone.js](http://www.dropzonejs.com/) – Javascript UI Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/element-admin is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -37,14 +40,15 @@ gmth6789/element-admin is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6890/dropzonejs.com' alt='Dropzone.js'/> [Dropzone.js](http://www.dropzonejs.com/) – Javascript UI Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/element-admin](https://github.com/gmth6789/element-admin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|59<br/>Tools used|11/09/23 <br/>Report generated|
+|62<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -229,9 +233,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (39)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (42)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (39)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (42)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -243,6 +247,7 @@ Full tech stack [here](/techstack.md)
 |[babel-eslint](https://www.npmjs.com/babel-eslint)|v10.1.0|09/22/23|gmth6789 |MIT|N/A|
 |[babel-jest](https://www.npmjs.com/babel-jest)|v23.6.0|09/22/23|gmth6789 |MIT|N/A|
 |[babel-plugin-dynamic-import-node](https://www.npmjs.com/babel-plugin-dynamic-import-node)|v2.3.3|09/22/23|gmth6789 |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|09/22/23|gmth6789 |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v2.1.5|09/22/23|gmth6789 |MIT|N/A|
 |[clipboard](https://www.npmjs.com/clipboard)|v2.0.4|09/22/23|gmth6789 |MIT|N/A|
 |[connect](https://www.npmjs.com/connect)|v3.6.6|09/22/23|gmth6789 |MIT|N/A|
@@ -253,10 +258,12 @@ Full tech stack [here](/techstack.md)
 |[file-saver](https://www.npmjs.com/file-saver)|v2.0.1|09/22/23|gmth6789 |MIT|N/A|
 |[fuse.js](https://www.npmjs.com/fuse.js)|v3.4.4|09/22/23|gmth6789 |Apache-2.0|N/A|
 |[html-webpack-plugin](https://www.npmjs.com/html-webpack-plugin)|v3.2.0|09/22/23|gmth6789 |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v1.3.1|09/22/23|gmth6789 |MIT|N/A|
 |[js-cookie](https://www.npmjs.com/js-cookie)|v2.2.0|09/22/23|gmth6789 |MIT|N/A|
 |[jsonlint](https://www.npmjs.com/jsonlint)|v1.6.3|09/22/23|gmth6789 |MIT|N/A|
 |[jszip](https://www.npmjs.com/jszip)|v3.2.1|09/22/23|gmth6789 |MIT,GPL-3.0|[CVE-2022-48285](https://github.com/advisories/GHSA-36fh-84j7-cv5h) (High)<br/>[CVE-2021-23413](https://github.com/advisories/GHSA-jg8v-48h5-wgxg) (Moderate)|
-|[mockjs](https://www.npmjs.com/mockjs)|v1.0.1|09/22/23|gmth6789 |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.1.5|09/22/23|gmth6789 |MIT|N/A|
+|[mockjs](https://www.npmjs.com/mockjs)|v1.0.1|09/22/23|gmth6789 |MIT|[CVE-2023-26158](https://github.com/advisories/GHSA-mh8j-9jvh-gjf6) (High)|
 |[nprogress](https://www.npmjs.com/nprogress)|v0.2.0|09/22/23|gmth6789 |MIT|N/A|
 |[path-to-regexp](https://www.npmjs.com/path-to-regexp)|v2.4.0|09/22/23|gmth6789 |MIT|N/A|
 |[plop](https://www.npmjs.com/plop)|v2.3.0|09/22/23|gmth6789 |MIT|N/A|
@@ -278,4 +285,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
